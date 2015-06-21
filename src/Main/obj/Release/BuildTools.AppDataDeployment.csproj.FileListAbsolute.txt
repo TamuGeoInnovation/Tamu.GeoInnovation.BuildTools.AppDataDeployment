@@ -1,8 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\src\obj\Release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.dll
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\src\obj\Release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.pdb
-C:\DevBuild\Tamu\GeoInnovation\BuildTools\AppDataDeployment\build\1.0.0\release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.dll
-C:\DevBuild\Tamu\GeoInnovation\BuildTools\AppDataDeployment\build\1.0.0\release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.pdb
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.dll
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.pdb
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.dll
-C:\DevSource\Tamu\GeoInnovation\BuildTools\AppDataDeployment\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.BuildTools.AppDataDeployment.pdb
